@@ -15,13 +15,13 @@
    ~~~
    Usa UPPER_CASE en:
    - Constantes:
-   ~~~
+   ~~~javascript
    const UNA_CONSTANTE = "Soy una constante",
    PI = 3.141592653589793;
    ~~~
    Usa UpperCamelCase en:
    - Clases:
-   ~~~
+   ~~~javascript
    class SerHumano {
     constructor(nombre, genero) {
       this.nombre = nombre;
@@ -35,33 +35,33 @@
    ~~~
    Usa lowerCamelCase en:
    - Objetos:
-   ~~~
+   ~~~javascript
    const unObjeto = {
    nombre: "Daniel",
    email: "esobare361@gmail.com",
    };
    ~~~
    - Primitivos:
-   ~~~
+   ~~~javascript
    let unaCadena = "Hola Mundo",
    unNumero = 19,
    unBoolean = true;
    ~~~
    - Funciones:
-   ~~~
+   ~~~javascript
    function holaMundo(nombre) {
    alert(`Hola mundo ${nombre}`);
    }
    holaMundo("Daniel");
    ~~~
    - Instancias:
-   ~~~
+   ~~~javascript
    const ajax = new XMLHttpRequest(),
    jon = new SerHumano("Daniel", "Hombre");
    ~~~
    
 Palabras Reservadas:
-~~~
+~~~javascript
 A: abstract
 B: boolean, break, byte
 C: case, catch, char, class, const, continue
