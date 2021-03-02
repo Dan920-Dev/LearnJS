@@ -10,9 +10,9 @@
    
    Usa snake_case en:
    - Nombre de archivos:
-   ~~~
-   mi_archivo_javascript.js
    ~~~javascript
+   mi_archivo_javascript.js
+   ~~~
    Usa UPPER_CASE en:
    - Constantes:
    ~~~
