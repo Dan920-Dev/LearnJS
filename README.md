@@ -80,3 +80,20 @@ T: this, throw, throws, transient, true, try, typeof
 V: var, volatile, void
 W: while, with
 ~~~
+
+## Tipos de datos en JavaScript
+Primitivos: Se accede directamente al valor.
+
+- string
+- number
+- boolean
+- null
+- undefined
+- NaN
+
+Compuestos: Se accede a la referencia del valor.
+
+- object = {}
+- array = []
+- function () { }
+- Class {}
