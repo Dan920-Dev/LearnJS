@@ -8,7 +8,7 @@
    - Un guión bajo _
    - Nunca con números o caracteres especiales.
    
-   Usa **snake_case en:
+   Usa **snake_case** en:
    - Nombre de archivos:
    ~~~javascript
    mi_archivo_javascript.js
