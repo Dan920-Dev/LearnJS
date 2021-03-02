@@ -12,7 +12,7 @@
    - Nombre de archivos:
    ~~~
    mi_archivo_javascript.js
-   ~~~
+   ~~~javascript
    Usa UPPER_CASE en:
    - Constantes:
    ~~~
