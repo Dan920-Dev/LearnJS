@@ -28,9 +28,9 @@
       this.genero = genero;
     }
 
-    miNombreEs() {
-    return `Mi nombre es ${this.nombre}`;
-    }
+     miNombreEs() {
+      return `Mi nombre es ${this.nombre}`;
+     }
    }
    ~~~
    Usa **lowerCamelCase** en:
@@ -52,6 +52,7 @@
    function holaMundo(nombre) {
    alert(`Hola mundo ${nombre}`);
    }
+   
    holaMundo("Daniel");
    ~~~
    - Instancias:
