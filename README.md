@@ -2,7 +2,6 @@
 
 ## Temas
 [**1. Introduccion basica.**](#Escritura-de-código) <br>
-[**2. Tipos de Datos.**] <br>
 
 
 ## Escritura de código
