@@ -8,18 +8,18 @@
    - Un guión bajo _
    - Nunca con números o caracteres especiales.
    
-   Usa snake_case en:
+   Usa **snake_case en:
    - Nombre de archivos:
    ~~~javascript
    mi_archivo_javascript.js
    ~~~
-   Usa UPPER_CASE en:
+   Usa **UPPER_CASE** en:
    - Constantes:
    ~~~javascript
    const UNA_CONSTANTE = "Soy una constante",
    PI = 3.141592653589793;
    ~~~
-   Usa UpperCamelCase en:
+   Usa **UpperCamelCase** en:
    - Clases:
    ~~~javascript
    class SerHumano {
@@ -33,7 +33,7 @@
     }
    }
    ~~~
-   Usa lowerCamelCase en:
+   Usa **lowerCamelCase** en:
    - Objetos:
    ~~~javascript
    const unObjeto = {
@@ -60,7 +60,7 @@
    jon = new SerHumano("Daniel", "Hombre");
    ~~~
    
-Palabras Reservadas:
+## Palabras Reservadas:
 ~~~javascript
 A: abstract
 B: boolean, break, byte
