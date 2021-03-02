@@ -1,10 +1,9 @@
 # JavaScriptCourse
 
 ## Temas
-[**Introduccion basica**](#Escritura-de-código) <br>
-### [Escritura de código]Introduccion Basica.
-### Tipos de Datos.
-### Estructuras de control.
+[**Introduccion basica.**](#Escritura-de-código) <br>
+[**Tipos de Datos.**] <br>
+
 
 ## Escritura de código
 
