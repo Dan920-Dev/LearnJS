@@ -7,13 +7,15 @@
 }
 
 
-h1 {
+h1 { /* Estilo del texto*/
     color: rgb(20, 134, 145);
     font-family: arial;
     font-size: 200px;
     text-align: center;
 }
 
+
+/* Estilo del boton */
 #chcolor {
     position: relative;
     background-color: rgb(235, 215, 228);

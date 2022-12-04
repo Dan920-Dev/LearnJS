@@ -1,1 +1,1 @@
-Practice of JS
+# This repository is for practice of html, css and JavaScript
