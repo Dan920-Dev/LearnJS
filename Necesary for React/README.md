@@ -1,1 +1,2 @@
-# Comands of VScode
+# Comands of VScode 
+# Concepts
